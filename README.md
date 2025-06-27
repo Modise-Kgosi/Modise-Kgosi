@@ -1,6 +1,6 @@
 ## Hi I'm Modise 👋
 
-# 💫 About Me:
+# 👨🏽‍💻 About Me:
 🎓 Computer Systems Engineering Student at Botswana Accountancy College.<br>🔐 Passionate about Software development, Cybersecurity & DevSecOps.<br>💻 I build secure and scalable software.<br>🔭 I’m currently working on LoetoLink which is a React Native (Expo) application that simplifies public transportation by offering route discovery, navigation, and personalized favorites<br>🌱 I’m currently learning AWS and Introduction to Cybersecurity<br>🚀 Always learning and  improving.
 
 
