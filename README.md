@@ -24,7 +24,7 @@ LoetoLink is a **React Native (Expo)** mobile app that simplifies public transpo
 - 🛑 Browse and search bus stops by route
 
 **🧱 Built With:**
-React Native (Expo) • Supabase • Google Maps Directions API • React Context API • AsyncStorage
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20Directions%20API-%234285F4.svg?style=for-the-badge&logo=googlemaps&logoColor=white) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Modise-Kgosi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
